@@ -22,9 +22,6 @@ To use this automation script, follow the steps below:
 Python 3.7 or higher
 Required Python libraries (e.g., requests, beautifulsoup4)
 2. Clone the repository: Clone the repository to your local machine using the following command:
-
-bash
-Copy code
 git clone https://github.com/vypois-312/Droppii-Entry-Test
 
 3. Install dependencies: Install the necessary dependencies by running the following command:
